@@ -1,5 +1,5 @@
 <h1 align="center">
-<p> align="center">Fire Detection Using Tiny YOLOV4</p>
+<p align="center">Fire Detection Using Tiny YOLOV4</p>
 
   
 
